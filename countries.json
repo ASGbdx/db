@@ -3,2187 +3,1701 @@
     "country_code_iso2": "AD",
     "country_code_iso3": "AND",
     "country_name": "AndorrA",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AE",
     "country_code_iso3": "ARE",
     "country_name": "United Arab Emirates",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AF",
     "country_code_iso3": "AFG",
     "country_name": "Afghanistan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AG",
     "country_code_iso3": "ATG",
     "country_name": "Antigua and Barbuda",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AI",
     "country_code_iso3": "AIA",
     "country_name": "Anguilla",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "XCD",
-    "delivery_cutoff": 10
+    "currency_code": "XCD"
   },
   {
     "country_code_iso2": "AL",
     "country_code_iso3": "ALB",
     "country_name": "Albania",
-    "region": "Rest of the world",
     "vat_rate": "0,2",
-    "currency_code": "ALL",
-    "delivery_cutoff": 10
+    "currency_code": "ALL"
   },
   {
     "country_code_iso2": "AM",
     "country_code_iso3": "ARM",
     "country_name": "Armenia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AN",
     "country_code_iso3": "na",
     "country_name": "Netherlands Antilles",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AO",
     "country_code_iso3": "AGO",
     "country_name": "Angola",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AQ",
     "country_code_iso3": "ATA",
     "country_name": "Antarctica",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AR",
     "country_code_iso3": "ARG",
     "country_name": "Argentina",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AS",
     "country_code_iso3": "ASM",
     "country_name": "American Samoa",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AT",
     "country_code_iso3": "AUT",
     "country_name": "Austria",
-    "region": "Europe",
     "vat_rate": "0,2",
-    "currency_code": "EUR",
-    "delivery_cutoff": 3
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "AU",
     "country_code_iso3": "AUS",
     "country_name": "Australia",
-    "region": "Rest of the world",
     "vat_rate": "0,1",
-    "currency_code": "AUD",
-    "delivery_cutoff": 10
+    "currency_code": "AUD"
   },
   {
     "country_code_iso2": "AW",
     "country_code_iso3": "ABW",
     "country_name": "Aruba",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AX",
     "country_code_iso3": "na",
-    "country_name": "Åland Islands",
-    "region": "Rest of the world",
+    "country_name": "\u00c5land Islands",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "AZ",
     "country_code_iso3": "AZE",
     "country_name": "Azerbaijan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BA",
     "country_code_iso3": "BIH",
     "country_name": "Bosnia and Herzegovina",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BB",
     "country_code_iso3": "BRB",
     "country_name": "Barbados",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BD",
     "country_code_iso3": "BGD",
     "country_name": "Bangladesh",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BE",
     "country_code_iso3": "BEL",
     "country_name": "Belgium",
-    "region": "Europe",
     "vat_rate": "0,21",
-    "currency_code": "EUR",
-    "delivery_cutoff": 3
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "BF",
     "country_code_iso3": "BFA",
     "country_name": "Burkina Faso",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BG",
     "country_code_iso3": "BGR",
     "country_name": "Bulgaria",
-    "region": "Europe",
     "vat_rate": "0,2",
-    "currency_code": "BGN",
-    "delivery_cutoff": 7
+    "currency_code": "BGN"
   },
   {
     "country_code_iso2": "BH",
     "country_code_iso3": "BHR",
     "country_name": "Bahrain",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BI",
     "country_code_iso3": "BDI",
     "country_name": "Burundi",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BJ",
     "country_code_iso3": "BEN",
     "country_name": "Benin",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BM",
     "country_code_iso3": "BMU",
     "country_name": "Bermuda",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "BMD",
-    "delivery_cutoff": 10
+    "currency_code": "BMD"
   },
   {
     "country_code_iso2": "BN",
     "country_code_iso3": "BRN",
     "country_name": "Brunei Darussalam",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BO",
     "country_code_iso3": "BOL",
     "country_name": "Bolivia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BR",
     "country_code_iso3": "BRA",
     "country_name": "Brazil",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BS",
     "country_code_iso3": "BHS",
     "country_name": "Bahamas",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BT",
     "country_code_iso3": "BTN",
     "country_name": "Bhutan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BV",
     "country_code_iso3": "BVT",
     "country_name": "Bouvet Island",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BW",
     "country_code_iso3": "BWA",
     "country_name": "Botswana",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BY",
     "country_code_iso3": "BLR",
     "country_name": "Belarus",
-    "region": "Europe",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "BZ",
     "country_code_iso3": "BLZ",
     "country_name": "Belize",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CA",
     "country_code_iso3": "CAN",
     "country_name": "Canada",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CC",
     "country_code_iso3": "CCK",
     "country_name": "Cocos (Keeling) Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CD",
     "country_code_iso3": "COD",
     "country_name": "Congo,The Democratic Republic of the",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CF",
     "country_code_iso3": "CAF",
     "country_name": "Central African Republic",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CG",
     "country_code_iso3": "COG",
     "country_name": "Congo",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CH",
     "country_code_iso3": "CHE",
     "country_name": "Switzerland",
-    "region": "Europe",
     "vat_rate": "0,081",
-    "currency_code": "CHF",
-    "delivery_cutoff": 10
+    "currency_code": "CHF"
   },
   {
     "country_code_iso2": "CI",
     "country_code_iso3": "CIV",
     "country_name": "Cote D'Ivoire",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CK",
     "country_code_iso3": "COK",
     "country_name": "Cook Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CL",
     "country_code_iso3": "CHL",
     "country_name": "Chile",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CM",
     "country_code_iso3": "CMR",
     "country_name": "Cameroon",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CN",
     "country_code_iso3": "CHN",
     "country_name": "China",
-    "region": "China & HK",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CO",
     "country_code_iso3": "COL",
     "country_name": "Colombia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CR",
     "country_code_iso3": "CRI",
     "country_name": "Costa Rica",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CS",
     "country_code_iso3": "na",
     "country_name": "Serbia and Montenegro",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CU",
     "country_code_iso3": "CUB",
     "country_name": "Cuba",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CV",
     "country_code_iso3": "CPV",
     "country_name": "Cape Verde",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CX",
     "country_code_iso3": "CXR",
     "country_name": "Christmas Island",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CY",
     "country_code_iso3": "CYP",
     "country_name": "Cyprus",
-    "region": "Europe",
     "vat_rate": "0,19",
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "CZ",
     "country_code_iso3": "CZE",
     "country_name": "Czech Republic",
-    "region": "Europe",
     "vat_rate": "0,21",
-    "currency_code": "CZK",
-    "delivery_cutoff": 7
+    "currency_code": "CZK"
   },
   {
     "country_code_iso2": "DE",
     "country_code_iso3": "DEU",
     "country_name": "Germany",
-    "region": "Europe",
     "vat_rate": "0,19",
-    "currency_code": "EUR",
-    "delivery_cutoff": 4
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "DJ",
     "country_code_iso3": "DJI",
     "country_name": "Djibouti",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "DK",
     "country_code_iso3": "DNK",
     "country_name": "Denmark",
-    "region": "Europe",
     "vat_rate": "0,25",
-    "currency_code": "DKK",
-    "delivery_cutoff": 4
+    "currency_code": "DKK"
   },
   {
     "country_code_iso2": "DM",
     "country_code_iso3": "DMA",
     "country_name": "Dominica",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "DO",
     "country_code_iso3": "DOM",
     "country_name": "Dominican Republic",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "DZ",
     "country_code_iso3": "DZA",
     "country_name": "Algeria",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "EC",
     "country_code_iso3": "ECU",
     "country_name": "Ecuador",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "EE",
     "country_code_iso3": "EST",
     "country_name": "Estonia",
-    "region": "Europe",
     "vat_rate": "0,22",
-    "currency_code": "EUR",
-    "delivery_cutoff": 7
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "EG",
     "country_code_iso3": "EGY",
     "country_name": "Egypt",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "EH",
     "country_code_iso3": "ESH",
     "country_name": "Western Sahara",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "ER",
     "country_code_iso3": "ERI",
     "country_name": "Eritrea",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "ES",
     "country_code_iso3": "ESP",
     "country_name": "Spain",
-    "region": "Europe",
     "vat_rate": "0,21",
-    "currency_code": "EUR",
-    "delivery_cutoff": 4
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "ET",
     "country_code_iso3": "ETH",
     "country_name": "Ethiopia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "FI",
     "country_code_iso3": "FIN",
     "country_name": "Finland",
-    "region": "Europe",
     "vat_rate": "0,255",
-    "currency_code": "EUR",
-    "delivery_cutoff": 7
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "FJ",
     "country_code_iso3": "FJI",
     "country_name": "Fiji",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "FK",
     "country_code_iso3": "FLK",
     "country_name": "Falkland Islands (Malvinas)",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "FKP",
-    "delivery_cutoff": 10
+    "currency_code": "FKP"
   },
   {
     "country_code_iso2": "FM",
     "country_code_iso3": "FSM",
     "country_name": "Micronesia,Federated States of",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "FO",
     "country_code_iso3": "FRO",
     "country_name": "Faroe Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "DKK",
-    "delivery_cutoff": 10
+    "currency_code": "DKK"
   },
   {
     "country_code_iso2": "FR",
     "country_code_iso3": "FRA",
     "country_name": "France",
-    "region": "Europe",
     "vat_rate": "0,2",
-    "currency_code": "EUR",
-    "delivery_cutoff": 3
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "GA",
     "country_code_iso3": "GAB",
     "country_name": "Gabon",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GB",
     "country_code_iso3": "GBR",
     "country_name": "United Kingdom",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 4
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GD",
     "country_code_iso3": "GRD",
     "country_name": "Grenada",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GE",
     "country_code_iso3": "GEO",
     "country_name": "Georgia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GF",
     "country_code_iso3": "GUF",
     "country_name": "French Guiana",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GG",
     "country_code_iso3": "GGY",
     "country_name": "Guernsey",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "GBP",
-    "delivery_cutoff": 10
+    "currency_code": "GBP"
   },
   {
     "country_code_iso2": "GH",
     "country_code_iso3": "GHA",
     "country_name": "Ghana",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GI",
     "country_code_iso3": "GIB",
     "country_name": "Gibraltar",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "GIP",
-    "delivery_cutoff": 10
+    "currency_code": "GIP"
   },
   {
     "country_code_iso2": "GL",
     "country_code_iso3": "GRL",
     "country_name": "Greenland",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "DKK",
-    "delivery_cutoff": 10
+    "currency_code": "DKK"
   },
   {
     "country_code_iso2": "GM",
     "country_code_iso3": "GMB",
     "country_name": "Gambia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GN",
     "country_code_iso3": "GIN",
     "country_name": "Guinea",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GP",
     "country_code_iso3": "GLP",
     "country_name": "Guadeloupe",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GQ",
     "country_code_iso3": "GNQ",
     "country_name": "Equatorial Guinea",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GR",
     "country_code_iso3": "GRC",
     "country_name": "Greece",
-    "region": "Europe",
     "vat_rate": "0,24",
-    "currency_code": "EUR",
-    "delivery_cutoff": 7
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "GS",
     "country_code_iso3": "SGS",
     "country_name": "South Georgia and the South Sandwich Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "GBP",
-    "delivery_cutoff": 10
+    "currency_code": "GBP"
   },
   {
     "country_code_iso2": "GT",
     "country_code_iso3": "GTM",
     "country_name": "Guatemala",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GU",
     "country_code_iso3": "GUM",
     "country_name": "Guam",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GW",
     "country_code_iso3": "GNB",
     "country_name": "Guinea-Bissau",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "GY",
     "country_code_iso3": "GUY",
     "country_name": "Guyana",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "HK",
     "country_code_iso3": "HKG",
     "country_name": "Hong Kong",
-    "region": "China & HK",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "HM",
     "country_code_iso3": "HMD",
     "country_name": "Heard Island and Mcdonald Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "HN",
     "country_code_iso3": "HND",
     "country_name": "Honduras",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "HR",
     "country_code_iso3": "HRV",
     "country_name": "Croatia",
-    "region": "Europe",
     "vat_rate": "0,25",
-    "currency_code": "EUR",
-    "delivery_cutoff": 7
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "HT",
     "country_code_iso3": "HTI",
     "country_name": "Haiti",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "HU",
     "country_code_iso3": "HUN",
     "country_name": "Hungary",
-    "region": "Europe",
     "vat_rate": "0,27",
-    "currency_code": "HUF",
-    "delivery_cutoff": 7
+    "currency_code": "HUF"
   },
   {
     "country_code_iso2": "ID",
     "country_code_iso3": "IDN",
     "country_name": "Indonesia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "IE",
     "country_code_iso3": "IRL",
     "country_name": "Ireland",
-    "region": "Europe",
     "vat_rate": "0,23",
-    "currency_code": "EUR",
-    "delivery_cutoff": 7
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "IL",
     "country_code_iso3": "ISR",
     "country_name": "Israel",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "IM",
     "country_code_iso3": "IMN",
     "country_name": "Isle of Man",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "IN",
     "country_code_iso3": "IND",
     "country_name": "India",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "IO",
     "country_code_iso3": "IOT",
     "country_name": "British Indian Ocean Territory",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "GBP",
-    "delivery_cutoff": 10
+    "currency_code": "GBP"
   },
   {
     "country_code_iso2": "IQ",
     "country_code_iso3": "IRQ",
     "country_name": "Iraq",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "IR",
     "country_code_iso3": "IRN",
     "country_name": "Iran,Islamic Republic Of",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "IS",
     "country_code_iso3": "ISL",
     "country_name": "Iceland",
-    "region": "Europe",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "IT",
     "country_code_iso3": "ITA",
     "country_name": "Italy",
-    "region": "Europe",
     "vat_rate": "0,22",
-    "currency_code": "EUR",
-    "delivery_cutoff": 4
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "JE",
     "country_code_iso3": "JEY",
     "country_name": "Jersey",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "GBP",
-    "delivery_cutoff": 10
+    "currency_code": "GBP"
   },
   {
     "country_code_iso2": "JM",
     "country_code_iso3": "JAM",
     "country_name": "Jamaica",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "JO",
     "country_code_iso3": "JOR",
     "country_name": "Jordan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "JP",
     "country_code_iso3": "JPN",
     "country_name": "Japan",
-    "region": "Rest of the world",
     "vat_rate": "0,08",
-    "currency_code": "JPY",
-    "delivery_cutoff": 10
+    "currency_code": "JPY"
   },
   {
     "country_code_iso2": "KE",
     "country_code_iso3": "KEN",
     "country_name": "Kenya",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "KG",
     "country_code_iso3": "KGZ",
     "country_name": "Kyrgyzstan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "KH",
     "country_code_iso3": "KHM",
     "country_name": "Cambodia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "KI",
     "country_code_iso3": "KIR",
     "country_name": "Kiribati",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "KM",
     "country_code_iso3": "COM",
     "country_name": "Comoros",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "KN",
     "country_code_iso3": "KNA",
     "country_name": "Saint Kitts and Nevis",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "KP",
     "country_code_iso3": "PRK",
     "country_name": "Korea,Democratic People'S Republic of",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "KR",
     "country_code_iso3": "KOR",
     "country_name": "Korea,Republic of",
-    "region": "Rest of the world",
     "vat_rate": "0,1",
-    "currency_code": "KRW",
-    "delivery_cutoff": 10
+    "currency_code": "KRW"
   },
   {
     "country_code_iso2": "KW",
     "country_code_iso3": "KWT",
     "country_name": "Kuwait",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "KY",
     "country_code_iso3": "CYM",
     "country_name": "Cayman Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "KYD",
-    "delivery_cutoff": 10
+    "currency_code": "KYD"
   },
   {
     "country_code_iso2": "KZ",
     "country_code_iso3": "KAZ",
     "country_name": "Kazakhstan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "LA",
     "country_code_iso3": "LAO",
     "country_name": "Lao People'S Democratic Republic",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "LB",
     "country_code_iso3": "LBN",
     "country_name": "Lebanon",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "LC",
     "country_code_iso3": "LCA",
     "country_name": "Saint Lucia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "LI",
     "country_code_iso3": "LIE",
     "country_name": "Liechtenstein",
-    "region": "Europe",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "LK",
     "country_code_iso3": "LKA",
     "country_name": "Sri Lanka",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "LR",
     "country_code_iso3": "LBR",
     "country_name": "Liberia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "LS",
     "country_code_iso3": "LSO",
     "country_name": "Lesotho",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "LT",
     "country_code_iso3": "LTU",
     "country_name": "Lithuania",
-    "region": "Europe",
     "vat_rate": "0,21",
-    "currency_code": "EUR",
-    "delivery_cutoff": 7
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "LU",
     "country_code_iso3": "LUX",
     "country_name": "Luxembourg",
-    "region": "Europe",
     "vat_rate": "0,17",
-    "currency_code": "EUR",
-    "delivery_cutoff": 4
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "LV",
     "country_code_iso3": "LVA",
     "country_name": "Latvia",
-    "region": "Europe",
     "vat_rate": "0,21",
-    "currency_code": "EUR",
-    "delivery_cutoff": 7
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "LY",
     "country_code_iso3": "LBY",
     "country_name": "Libyan Arab Jamahiriya",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MA",
     "country_code_iso3": "MAR",
     "country_name": "Morocco",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 7
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MC",
     "country_code_iso3": "MCO",
     "country_name": "Monaco",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MD",
     "country_code_iso3": "MDA",
     "country_name": "Moldova,Republic of",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MG",
     "country_code_iso3": "MDG",
     "country_name": "Madagascar",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MH",
     "country_code_iso3": "MHL",
     "country_name": "Marshall Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MK",
     "country_code_iso3": "MKD",
     "country_name": "Macedonia,The Former Yugoslav Republic of",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "ML",
     "country_code_iso3": "MLI",
     "country_name": "Mali",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MM",
     "country_code_iso3": "MMR",
     "country_name": "Myanmar",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MN",
     "country_code_iso3": "MNG",
     "country_name": "Mongolia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MO",
     "country_code_iso3": "MAC",
     "country_name": "Macao",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MP",
     "country_code_iso3": "MNP",
     "country_name": "Northern Mariana Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MQ",
     "country_code_iso3": "MTQ",
     "country_name": "Martinique",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MR",
     "country_code_iso3": "MRT",
     "country_name": "Mauritania",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MS",
     "country_code_iso3": "MSR",
     "country_name": "Montserrat",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "XCD",
-    "delivery_cutoff": 10
+    "currency_code": "XCD"
   },
   {
     "country_code_iso2": "MT",
     "country_code_iso3": "MLT",
     "country_name": "Malta",
-    "region": "Europe",
     "vat_rate": "0,18",
-    "currency_code": "EUR",
-    "delivery_cutoff": 10
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "MU",
     "country_code_iso3": "MUS",
     "country_name": "Mauritius",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MV",
     "country_code_iso3": "MDV",
     "country_name": "Maldives",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MW",
     "country_code_iso3": "MWI",
     "country_name": "Malawi",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MX",
     "country_code_iso3": "MEX",
     "country_name": "Mexico",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MY",
     "country_code_iso3": "MYS",
     "country_name": "Malaysia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "MZ",
     "country_code_iso3": "MOZ",
     "country_name": "Mozambique",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NA",
     "country_code_iso3": "NAM",
     "country_name": "Namibia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NC",
     "country_code_iso3": "NCL",
     "country_name": "New Caledonia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NE",
     "country_code_iso3": "NER",
     "country_name": "Niger",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NF",
     "country_code_iso3": "NFK",
     "country_name": "Norfolk Island",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NG",
     "country_code_iso3": "NGA",
     "country_name": "Nigeria",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NI",
     "country_code_iso3": "NIC",
     "country_name": "Nicaragua",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NL",
     "country_code_iso3": "NLD",
     "country_name": "Netherlands",
-    "region": "Rest of the world",
     "vat_rate": "0,21",
-    "currency_code": "EUR",
-    "delivery_cutoff": 3
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "NO",
     "country_code_iso3": "NOR",
     "country_name": "Norway",
-    "region": "Europe",
     "vat_rate": "0,25",
-    "currency_code": "NOK",
-    "delivery_cutoff": 10
+    "currency_code": "NOK"
   },
   {
     "country_code_iso2": "NP",
     "country_code_iso3": "NPL",
     "country_name": "Nepal",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NR",
     "country_code_iso3": "NRU",
     "country_name": "Nauru",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NU",
     "country_code_iso3": "NIU",
     "country_name": "Niue",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "NZ",
     "country_code_iso3": "NZL",
     "country_name": "New Zealand",
-    "region": "Rest of the world",
     "vat_rate": "0,15",
-    "currency_code": "NZD",
-    "delivery_cutoff": 10
+    "currency_code": "NZD"
   },
   {
     "country_code_iso2": "OM",
     "country_code_iso3": "OMN",
     "country_name": "Oman",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PA",
     "country_code_iso3": "PAN",
     "country_name": "Panama",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PE",
     "country_code_iso3": "PER",
     "country_name": "Peru",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PF",
     "country_code_iso3": "PYF",
     "country_name": "French Polynesia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PG",
     "country_code_iso3": "PNG",
     "country_name": "Papua New Guinea",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PH",
     "country_code_iso3": "PHL",
     "country_name": "Philippines",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PK",
     "country_code_iso3": "PAK",
     "country_name": "Pakistan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PL",
     "country_code_iso3": "POL",
     "country_name": "Poland",
-    "region": "Europe",
     "vat_rate": "0,23",
-    "currency_code": "PLN",
-    "delivery_cutoff": 7
+    "currency_code": "PLN"
   },
   {
     "country_code_iso2": "PM",
     "country_code_iso3": "SPM",
     "country_name": "Saint Pierre and Miquelon",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PN",
     "country_code_iso3": "PCN",
     "country_name": "Pitcairn",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "NZD",
-    "delivery_cutoff": 10
+    "currency_code": "NZD"
   },
   {
     "country_code_iso2": "PR",
     "country_code_iso3": "PRI",
     "country_name": "Puerto Rico",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PS",
     "country_code_iso3": "PSE",
     "country_name": "Palestinian Territory,Occupied",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PT",
     "country_code_iso3": "PRT",
     "country_name": "Portugal",
-    "region": "Europe",
     "vat_rate": "0,23",
-    "currency_code": "EUR",
-    "delivery_cutoff": 4
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "PW",
     "country_code_iso3": "PLW",
     "country_name": "Palau",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "PY",
     "country_code_iso3": "PRY",
     "country_name": "Paraguay",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "QA",
     "country_code_iso3": "QAT",
     "country_name": "Qatar",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "RE",
     "country_code_iso3": "REU",
     "country_name": "Reunion",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "RO",
     "country_code_iso3": "ROU",
     "country_name": "Romania",
-    "region": "Europe",
     "vat_rate": "0,19",
-    "currency_code": "RON",
-    "delivery_cutoff": 7
+    "currency_code": "RON"
   },
   {
     "country_code_iso2": "RU",
     "country_code_iso3": "RUS",
     "country_name": "Russian Federation",
-    "region": "Rest of the world",
     "vat_rate": "0,18",
-    "currency_code": "RUB",
-    "delivery_cutoff": 10
+    "currency_code": "RUB"
   },
   {
     "country_code_iso2": "RW",
     "country_code_iso3": "RWA",
     "country_name": "RWANDA",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SA",
     "country_code_iso3": "SAU",
     "country_name": "Saudi Arabia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SB",
     "country_code_iso3": "SLB",
     "country_name": "Solomon Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SC",
     "country_code_iso3": "SYC",
     "country_name": "Seychelles",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SD",
     "country_code_iso3": "SDN",
     "country_name": "Sudan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SE",
     "country_code_iso3": "SWE",
     "country_name": "Sweden",
-    "region": "Europe",
     "vat_rate": "0,25",
-    "currency_code": "SEK",
-    "delivery_cutoff": 5
+    "currency_code": "SEK"
   },
   {
     "country_code_iso2": "SG",
     "country_code_iso3": "SGP",
     "country_name": "Singapore",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SH",
     "country_code_iso3": "SHN",
     "country_name": "Saint Helena",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SI",
     "country_code_iso3": "SVN",
     "country_name": "Slovenia",
-    "region": "Europe",
     "vat_rate": "0,22",
-    "currency_code": "EUR",
-    "delivery_cutoff": 7
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "SJ",
     "country_code_iso3": "SJM",
     "country_name": "Svalbard and Jan Mayen",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SK",
     "country_code_iso3": "SVK",
     "country_name": "Slovakia",
-    "region": "Europe",
     "vat_rate": "0,2",
-    "currency_code": "EUR",
-    "delivery_cutoff": 7
+    "currency_code": "EUR"
   },
   {
     "country_code_iso2": "SL",
     "country_code_iso3": "SLE",
     "country_name": "Sierra Leone",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SM",
     "country_code_iso3": "SMR",
     "country_name": "San Marino",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SN",
     "country_code_iso3": "SEN",
     "country_name": "Senegal",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SO",
     "country_code_iso3": "SOM",
     "country_name": "Somalia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SR",
     "country_code_iso3": "SUR",
     "country_name": "Suriname",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "ST",
     "country_code_iso3": "STP",
     "country_name": "Sao Tome and Principe",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SV",
     "country_code_iso3": "SLV",
     "country_name": "El Salvador",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SY",
     "country_code_iso3": "SYR",
     "country_name": "Syrian Arab Republic",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "SZ",
     "country_code_iso3": "SWZ",
     "country_name": "Swaziland",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TC",
     "country_code_iso3": "TCA",
     "country_name": "Turks and Caicos Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "USD",
-    "delivery_cutoff": 10
+    "currency_code": "USD"
   },
   {
     "country_code_iso2": "TD",
     "country_code_iso3": "TCD",
     "country_name": "Chad",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TF",
     "country_code_iso3": "ATF",
     "country_name": "French Southern Territories",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TG",
     "country_code_iso3": "TGO",
     "country_name": "Togo",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TH",
     "country_code_iso3": "THA",
     "country_name": "Thailand",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TJ",
     "country_code_iso3": "TJK",
     "country_name": "Tajikistan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TK",
     "country_code_iso3": "TKL",
     "country_name": "Tokelau",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TL",
     "country_code_iso3": "TLS",
     "country_name": "Timor-Leste",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TM",
     "country_code_iso3": "TKM",
     "country_name": "Turkmenistan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TN",
     "country_code_iso3": "TUN",
     "country_name": "Tunisia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TO",
     "country_code_iso3": "TON",
     "country_name": "Tonga",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TR",
     "country_code_iso3": "TUR",
     "country_name": "Turkey",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TT",
     "country_code_iso3": "TTO",
     "country_name": "Trinidad and Tobago",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TV",
     "country_code_iso3": "TUV",
     "country_name": "Tuvalu",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TW",
     "country_code_iso3": "TWN",
     "country_name": "Taiwan,Province of China",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "TZ",
     "country_code_iso3": "TZA",
     "country_name": "Tanzania,United Republic of",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "UA",
     "country_code_iso3": "UKR",
     "country_name": "Ukraine",
-    "region": "Europe",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "UG",
     "country_code_iso3": "UGA",
     "country_name": "Uganda",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "UM",
     "country_code_iso3": "UMI",
     "country_name": "United States Minor Outlying Islands",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "US",
     "country_code_iso3": "USA",
     "country_name": "United States",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "UY",
     "country_code_iso3": "URY",
     "country_name": "Uruguay",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "UZ",
     "country_code_iso3": "UZB",
     "country_name": "Uzbekistan",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "VA",
     "country_code_iso3": "VAT",
     "country_name": "Holy See (Vatican City State)",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "VC",
     "country_code_iso3": "VCT",
     "country_name": "Saint Vincent and the Grenadines",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "VE",
     "country_code_iso3": "VEN",
     "country_name": "Venezuela",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "VG",
     "country_code_iso3": "VGB",
     "country_name": "Virgin Islands,British",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "USD",
-    "delivery_cutoff": 10
+    "currency_code": "USD"
   },
   {
     "country_code_iso2": "VI",
     "country_code_iso3": "VIR",
     "country_name": "Virgin Islands,U.S.",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "VN",
     "country_code_iso3": "VNM",
     "country_name": "Viet Nam",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "VU",
     "country_code_iso3": "VUT",
     "country_name": "Vanuatu",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "WF",
     "country_code_iso3": "WLF",
     "country_name": "Wallis and Futuna",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "WS",
     "country_code_iso3": "WSM",
     "country_name": "Samoa",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "YE",
     "country_code_iso3": "YEM",
     "country_name": "Yemen",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "YT",
     "country_code_iso3": "MYT",
     "country_name": "Mayotte",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "ZA",
     "country_code_iso3": "ZAF",
     "country_name": "South Africa",
-    "region": "Rest of the world",
     "vat_rate": "0,14",
-    "currency_code": "ZAR",
-    "delivery_cutoff": 10
+    "currency_code": "ZAR"
   },
   {
     "country_code_iso2": "ZM",
     "country_code_iso3": "ZMB",
     "country_name": "Zambia",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   },
   {
     "country_code_iso2": "ZW",
     "country_code_iso3": "ZWE",
     "country_name": "Zimbabwe",
-    "region": "Rest of the world",
     "vat_rate": 0,
-    "currency_code": "",
-    "delivery_cutoff": 10
+    "currency_code": ""
   }
 ]
